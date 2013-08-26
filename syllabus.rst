@@ -2,8 +2,8 @@
 Computational Thinking and Programming
 **************************************
 
-DSCI 15310
-##########
+DSCI 15310 Sec 003 Fall 2013
+############################
 
 .. footer:: 
 
@@ -11,7 +11,7 @@ DSCI 15310
 
 :Instructor: Douglas Stanley
 :Email: dmstanle@kent.edu
-:Website: http://www.cs.kent.edu/~dostanle/dsci15310/
+:Website: http://www.cs.kent.edu/~dostanle/courses/dsci15310/
 :Office: SRL 032
 :Office Hours: 4:00pm - 5:00pm M & W or by appointment
 :Phone: 20021 
@@ -24,8 +24,9 @@ DSCI 15310
 Course Description:
 ===================
 
-This course provides students with the necessary knowledge and skills to
-perform basic system administration tasks on a network operating system.
+Introductory, broad, and hands-on coverage of basic aspects of
+computational thinking with emphasis on problem solving using
+a high-level programming language.
 
 
 Prerequisites:
@@ -34,8 +35,8 @@ Prerequisites:
 None.
 
 
-Course Goals/Objectives
-=======================
+Course Goals
+============
 
 1. Learn a form of reasoning, or problem solving, called Computational
    Thinking. 
@@ -99,6 +100,8 @@ Additional References:
 
 * http://blockly-demo.appspot.com/static/apps/index.html
 
+* http://www.python.org/dev/peps/pep-0008/
+
 * http://portablepython.com/
 
 * https://www.pythonanywhere.com/
@@ -114,13 +117,17 @@ Grades:
 | Assessment                      | Percentage     |
 |                                 | of Final Grade |
 +=================================+================+
-| 2 Written Midterm Exams         | 20%            |
+| Homeworks                       | 30%            |
 +---------------------------------+----------------+
-| Homeworks & Quizzes             | 30%            |
+| Weekly Exercises & Labs         | 25%            |
 +---------------------------------+----------------+
-| Projects & Labs                 | 25%            |
+| Quizzes                         | 10%            |
 +---------------------------------+----------------+
-| Written Final Exam              | 10%            |
+| Midterm Exams 1                 | 10%            |
++---------------------------------+----------------+
+| Midterm Exams 2                 | 10%            |
++---------------------------------+----------------+
+| Written Final Exam              | 15%            |
 +---------------------------------+----------------+
 | \*\*Attitude and Attendance     | \*             |
 +---------------------------------+----------------+
@@ -145,25 +152,25 @@ a letter grade.
 +--------------+------------+
 | Letter Grade | Percentage |
 +==============+============+
-| A            | 100-94%    |
+| A            | 100-93%    |
 +--------------+------------+
-| A-           | 93-90%     |
+| A-           | 92-90%     |
 +--------------+------------+
-| B+           | 89-86%     |
+| B+           | 89-88%     |
 +--------------+------------+
-| B            | 85-83%     |
+| B            | 87-83%     |
 +--------------+------------+
 | B-           | 82-80%     |
 +--------------+------------+
-| C+           | 79-76%     |
+| C+           | 79-78%     |
 +--------------+------------+
-| C            | 75-73%     |
+| C            | 77-73%     |
 +--------------+------------+
 | C-           | 72-70%     |
 +--------------+------------+
-| D+           | 69-66%     |
+| D+           | 69-68%     |
 +--------------+------------+
-| D            | 65-63%     |
+| D            | 67-63%     |
 +--------------+------------+
 | D-           | 62-60%     |
 +--------------+------------+
