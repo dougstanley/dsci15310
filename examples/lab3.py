@@ -75,3 +75,10 @@ except Exception, e:
     print "Sorry, an error occurred, all your hard work was not saved!"
     print str(e)
 
+#Copypasta trap
+import sys
+sys.exit()
+x = 5
+if x is 5:
+    print "We're Done!"
+# And that's it, we're done.
